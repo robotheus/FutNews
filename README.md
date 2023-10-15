@@ -1,4 +1,4 @@
 # FutNews
-Naive Bayes classifier applied to football news with a bag of words approach
+naive bayes classifier applied to football news with a bag of words approach
 
-Database: https://www.kaggle.com/datasets/lgmoneda/ge-soccer-clubs-news/
+dataset: https://www.kaggle.com/datasets/lgmoneda/ge-soccer-clubs-news/
